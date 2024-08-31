@@ -4,25 +4,28 @@ class Solution(object):
         :type bills: List[int]
         :rtype: bool
         """
-        five_count = 0
-        ten_count = 0
-
+        five_c= 0
+        ten_c = 0
         for i in bills:
             if i == 5:
-                five_count += 1
-            elif i == 10:
-                if five_count == 0:
+                five_c+=1
+            elif i==10:
+                
+                if five_c>0:
+                    five_c-=1
+                else:
                     return False
-                five_count -= 1
-                ten_count += 1
-            elif i == 20:
-                if ten_count > 0 and five_count > 0:
-                    ten_count -= 1
-                    five_count -= 1
-                elif five_count >= 3:
-                    five_count -= 3
+                ten_c+=1
+            elif i==20:
+                if five_c > 0 and ten_c>0:
+                    five_c-=1
+                    ten_c-=1
+                elif five_c >= 3:
+                    five_c -= 3
                 else:
                     return False
 
         return True
+            
+
 
