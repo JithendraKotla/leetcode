@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
