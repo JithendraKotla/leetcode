@@ -59,17 +59,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
