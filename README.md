@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -86,13 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
