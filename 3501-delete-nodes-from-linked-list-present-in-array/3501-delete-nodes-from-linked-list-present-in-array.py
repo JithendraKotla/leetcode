@@ -11,19 +11,18 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         nums_list=set(nums)
-        ans=ListNode(0)
-        ans.next=head
-        prev,cur=ans,head
         
-        if not head:
-            return None
-        while cur:
-            if cur.val in nums_list:
-                prev.next=cur.next
+        while head is not None and head.val in nums_list:
+            head = head.next
+        temp=head
+        while( temp is not None and temp.next is not None ):
+            if (temp.next.val in nums_list ):
+                
+                temp.next=temp.next.next
             else:
-                prev=cur
-            cur=cur.next
-        return ans.next
+                temp=temp.next
+        return head
+       
 
         
 
