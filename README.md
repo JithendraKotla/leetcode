@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/JithendraKotla/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0725-split-linked-list-in-parts](https://github.com/JithendraKotla/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
