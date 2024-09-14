@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JithendraKotla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JithendraKotla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JithendraKotla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Sorting
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/JithendraKotla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JithendraKotla/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/JithendraKotla/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Number Theory
