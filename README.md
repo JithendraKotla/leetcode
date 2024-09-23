@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JithendraKotla/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
 | [0520-detect-capital](https://github.com/JithendraKotla/leetcode/tree/master/0520-detect-capital) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
