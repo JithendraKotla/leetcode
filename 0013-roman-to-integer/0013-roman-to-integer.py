@@ -4,11 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        numeral_map = {"I": 1, "V": 5, "X": 10, "L": 50, "C":100, "D": 500, "M": 1000}
-        decimal=0
-        for i in range(len(s)):
-            if(i>0 and numeral_map[s[i]]>numeral_map[s[i-1]]):
-                decimal+=numeral_map[s[i]]-2*numeral_map[s[i-1]]
+        d = {"I": 1, "V": 5, "X": 10, "L": 50, "C":100, "D": 500, "M": 1000}
+        n=len(s)
+        sum=0
+        i=0
+        while i<n:
+            if i<n-1 and d[s[i]]<d[s[i+1]]:
+                sum+=d[s[i+1]]-d[s[i]]
+                i+=2
             else:
-                decimal+=numeral_map[s[i]]
-        return decimal
+                sum+=d[s[i]]
+                i+=1
+        return sum
