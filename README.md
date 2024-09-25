@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
