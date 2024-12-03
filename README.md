@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/3379-score-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Divide and Conquer
 |  |
 | ------- |
