@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JithendraKotla/leetcode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/JithendraKotla/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JithendraKotla/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/JithendraKotla/leetcode/tree/master/0148-sort-list) |
