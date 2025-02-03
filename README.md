@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JithendraKotla/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JithendraKotla/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
