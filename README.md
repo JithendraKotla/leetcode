@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
