@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JithendraKotla/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/JithendraKotla/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
