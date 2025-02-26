@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JithendraKotla/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0226-invert-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Two Pointers
 |  |
 | ------- |
