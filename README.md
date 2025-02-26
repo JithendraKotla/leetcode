@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1666-make-the-string-great](https://github.com/JithendraKotla/leetcode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/JithendraKotla/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JithendraKotla/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/JithendraKotla/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/JithendraKotla/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
