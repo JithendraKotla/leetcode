@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/JithendraKotla/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JithendraKotla/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
