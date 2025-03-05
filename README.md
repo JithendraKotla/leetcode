@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/JithendraKotla/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JithendraKotla/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/JithendraKotla/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Matrix
 |  |
 | ------- |
