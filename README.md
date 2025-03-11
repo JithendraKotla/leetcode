@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/JithendraKotla/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/JithendraKotla/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/JithendraKotla/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
