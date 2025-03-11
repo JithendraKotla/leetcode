@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/JithendraKotla/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JithendraKotla/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/JithendraKotla/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/JithendraKotla/leetcode/tree/master/3447-clear-digits) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JithendraKotla/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
