@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/JithendraKotla/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/JithendraKotla/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/JithendraKotla/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JithendraKotla/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/JithendraKotla/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/JithendraKotla/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
