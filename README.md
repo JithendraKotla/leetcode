@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/JithendraKotla/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/JithendraKotla/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JithendraKotla/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/JithendraKotla/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
+| [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/JithendraKotla/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/JithendraKotla/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
