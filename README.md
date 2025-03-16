@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/JithendraKotla/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/JithendraKotla/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JithendraKotla/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JithendraKotla/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/JithendraKotla/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Dynamic Programming
 |  |
 | ------- |
