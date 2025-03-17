@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JithendraKotla/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JithendraKotla/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/JithendraKotla/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Counting
 |  |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
