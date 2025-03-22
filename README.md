@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JithendraKotla/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JithendraKotla/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/JithendraKotla/leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JithendraKotla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JithendraKotla/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2561-number-of-distinct-averages](https://github.com/JithendraKotla/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JithendraKotla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/JithendraKotla/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -375,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JithendraKotla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/JithendraKotla/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
