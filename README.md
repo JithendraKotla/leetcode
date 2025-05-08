@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
+| [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JithendraKotla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/JithendraKotla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2159-two-out-of-three](https://github.com/JithendraKotla/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JithendraKotla/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
