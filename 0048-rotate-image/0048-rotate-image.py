@@ -11,6 +11,6 @@ class Solution:
         for i in range(len(res)):
             for j in range(len(res[i])):
                 matrix[i][j]=res[i][j]
-        return transposed
+        return matrix
 
         
