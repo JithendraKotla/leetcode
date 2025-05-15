@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
 | [1879-maximum-score-from-removing-stones](https://github.com/JithendraKotla/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JithendraKotla/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/JithendraKotla/leetcode/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/JithendraKotla/leetcode/tree/master/3227-find-missing-and-repeated-values) |
