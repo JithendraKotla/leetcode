@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JithendraKotla/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
+| [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/JithendraKotla/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/JithendraKotla/leetcode/tree/master/0768-partition-labels) |
 | [1879-maximum-score-from-removing-stones](https://github.com/JithendraKotla/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JithendraKotla/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JithendraKotla/leetcode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
+| [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Trie
 |  |
 | ------- |
