@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/JithendraKotla/leetcode/tree/master/1036-rotting-oranges) |
+| [1115-valid-boomerang](https://github.com/JithendraKotla/leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/JithendraKotla/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
+| [1115-valid-boomerang](https://github.com/JithendraKotla/leetcode/tree/master/1115-valid-boomerang) |
 | [1879-maximum-score-from-removing-stones](https://github.com/JithendraKotla/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JithendraKotla/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/JithendraKotla/leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
