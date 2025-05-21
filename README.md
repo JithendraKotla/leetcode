@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JithendraKotla/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/JithendraKotla/leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JithendraKotla/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
