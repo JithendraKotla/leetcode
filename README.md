@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JithendraKotla/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/JithendraKotla/leetcode/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/JithendraKotla/leetcode/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/JithendraKotla/leetcode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1666-make-the-string-great](https://github.com/JithendraKotla/leetcode/tree/master/1666-make-the-string-great) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JithendraKotla/leetcode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/JithendraKotla/leetcode/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0807-custom-sort-string](https://github.com/JithendraKotla/leetcode/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/JithendraKotla/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JithendraKotla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JithendraKotla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/JithendraKotla/leetcode/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/JithendraKotla/leetcode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
