@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/JithendraKotla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/JithendraKotla/leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JithendraKotla/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JithendraKotla/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JithendraKotla/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
 | [1879-maximum-score-from-removing-stones](https://github.com/JithendraKotla/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JithendraKotla/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JithendraKotla/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JithendraKotla/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/JithendraKotla/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JithendraKotla/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/JithendraKotla/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JithendraKotla/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JithendraKotla/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/JithendraKotla/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/JithendraKotla/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JithendraKotla/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JithendraKotla/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2447-merge-similar-items](https://github.com/JithendraKotla/leetcode/tree/master/2447-merge-similar-items) |
 | [2476-check-distances-between-same-letters](https://github.com/JithendraKotla/leetcode/tree/master/2476-check-distances-between-same-letters) |
