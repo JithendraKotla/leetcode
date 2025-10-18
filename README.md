@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JithendraKotla/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/JithendraKotla/leetcode/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/JithendraKotla/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JithendraKotla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/JithendraKotla/leetcode/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JithendraKotla/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/JithendraKotla/leetcode/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/JithendraKotla/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/JithendraKotla/leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JithendraKotla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JithendraKotla/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JithendraKotla/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
