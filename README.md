@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/JithendraKotla/leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/JithendraKotla/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/JithendraKotla/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/JithendraKotla/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/JithendraKotla/leetcode/tree/master/1036-rotting-oranges) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JithendraKotla/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/JithendraKotla/leetcode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/JithendraKotla/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/JithendraKotla/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1297-maximum-number-of-balloons](https://github.com/JithendraKotla/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1666-make-the-string-great](https://github.com/JithendraKotla/leetcode/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/JithendraKotla/leetcode/tree/master/1894-merge-strings-alternately) |
