@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/JithendraKotla/leetcode/tree/master/1089-duplicate-zeros) |
 | [1115-valid-boomerang](https://github.com/JithendraKotla/leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/JithendraKotla/leetcode/tree/master/1127-last-stone-weight) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JithendraKotla/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JithendraKotla/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/JithendraKotla/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JithendraKotla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JithendraKotla/leetcode/tree/master/0048-rotate-image) |
 | [1014-k-closest-points-to-origin](https://github.com/JithendraKotla/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/JithendraKotla/leetcode/tree/master/1115-valid-boomerang) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JithendraKotla/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1879-maximum-score-from-removing-stones](https://github.com/JithendraKotla/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JithendraKotla/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/JithendraKotla/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/JithendraKotla/leetcode/tree/master/0682-baseball-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/JithendraKotla/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JithendraKotla/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JithendraKotla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JithendraKotla/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
